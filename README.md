@@ -1,6 +1,6 @@
 # Nicole-Previd
 <h1 align="center">Hi 👋, I'm Nicole Previd</h1>
-<h3 align="center">A passionate programming student focused on learning front-end</h3>
+<h3 align="center">A passionate programming student :) </h3>
 
 - 🌱 I’m currently learning **next.js, react and javascript**
 
